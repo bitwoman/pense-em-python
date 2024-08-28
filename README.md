@@ -16,8 +16,8 @@ Iniciado em 20-06-2024.
 | Capítulo 4: Estudo de caso: projeto de interface           | Finalizado   |        07/2024      |
 | Capítulo 5: Condicionais e recursividade                   | Finalizado   |        07/2024      |
 | Capítulo 6: Funções com resultado                          | Finalizado   |        07/2024      |
-| Capítulo 7: Iteração                                       | Finalizado   |          -          |
-| Capítulo 8: Strings                                        | Finalizado   |          -          |
+| Capítulo 7: Iteração                                       | Finalizado   |        08/2024      |
+| Capítulo 8: Strings                                        | Finalizado   |        08/2024      |
 | Capítulo 9: Estudo de caso: jogos de palavras              | Andamento    |          -          |
 | Capítulo 10: Listas                                        | Não iniciado |          -          |
 | Capítulo 11: Dicionários                                   | Não iniciado |          -          |
