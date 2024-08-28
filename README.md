@@ -7,18 +7,17 @@ Iniciado em 20-06-2024.
 ![image](https://github.com/user-attachments/assets/cf41b729-1e52-4aa8-924c-ac2d5b673412)
 
 
-|                    Capítulo                                                                           |    Status    | Data de Finalização |
-|-------------------------------------------------------------------------------------------------------|--------------|---------------------|
-| [Capítulo 1: A jornada do programa](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_1) | Finalizado   |        07/2024      |
-| Capítulo 2: Variáveis, expressões e instruções             | Finalizado   |        07/2024      |
-| Capítulo 2: Variáveis, expressões e instruções             | Finalizado   |        07/2024      |
-| Capítulo 3: Funções                                        | Finalizado   |        07/2024      |
-| Capítulo 4: Estudo de caso: projeto de interface           | Finalizado   |        07/2024      |
-| Capítulo 5: Condicionais e recursividade                   | Finalizado   |        07/2024      |
-| Capítulo 6: Funções com resultado                          | Finalizado   |        07/2024      |
-| Capítulo 7: Iteração                                       | Finalizado   |        08/2024      |
-| Capítulo 8: Strings                                        | Finalizado   |        08/2024      |
-| Capítulo 9: Estudo de caso: jogos de palavras              | Andamento    |          -          |
+|                    Capítulo                                                                                          |    Status    | Data de Finalização |
+|----------------------------------------------------------------------------------------------------------------------|--------------|---------------------|
+| [Capítulo 1: A jornada do programa](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_1)                | Finalizado   |        07/2024      |
+| [Capítulo 2: Variáveis, expressões e instruções](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_2)   | Finalizado   |        07/2024      |
+| [Capítulo 3: Funções](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_3)                              | Finalizado   |        07/2024      |
+| [Capítulo 4: Estudo de caso: projeto de interface](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_4) | Finalizado   |        07/2024      |
+| [Capítulo 5: Condicionais e recursividade](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_5)         | Finalizado   |        07/2024      |
+| [Capítulo 6: Funções com resultado](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_6)                | Finalizado   |        07/2024      |
+| [Capítulo 7: Iteração](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_7)                             | Finalizado   |        08/2024      |
+| [Capítulo 8: Strings](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_8)                              | Finalizado   |        08/2024      |
+| [Capítulo 9: Estudo de caso: jogos de palavras](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_9)    | Andamento    |          -          |
 | Capítulo 10: Listas                                        | Não iniciado |          -          |
 | Capítulo 11: Dicionários                                   | Não iniciado |          -          |
 | Capítulo 12: Tuplas                                        | Não iniciado |          -          |
