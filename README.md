@@ -7,9 +7,9 @@ Iniciado em 20-06-2024.
 ![image](https://github.com/user-attachments/assets/cf41b729-1e52-4aa8-924c-ac2d5b673412)
 
 
-|                    Capítulo                                |    Status    | Data de Finalização |
-|------------------------------------------------------------|--------------|---------------------|
-| Capítulo 1: A jornada do programa                          | Finalizado   |        07/2024      |
+|                    Capítulo                                                                           |    Status    | Data de Finalização |
+|-------------------------------------------------------------------------------------------------------|--------------|---------------------|
+| [Capítulo 1: A jornada do programa](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_1) | Finalizado   |        07/2024      |
 | Capítulo 2: Variáveis, expressões e instruções             | Finalizado   |        07/2024      |
 | Capítulo 2: Variáveis, expressões e instruções             | Finalizado   |        07/2024      |
 | Capítulo 3: Funções                                        | Finalizado   |        07/2024      |
