@@ -1,5 +1,5 @@
 # ESTUDO DO LIVRO 'PENSE EM PYTHON' - ALLEN B. DOWNEY, SEPARADOS POR CAPÍTULO. 
-Iniciado em 20-06-2024, este repositório criado para leitura e prática do livro "Pense em Python" para aprimorar habilidades de programação e impulsionar minha carreira na área de engenharia de dados. Este estudo tem sido fundamental para aprofundar meu entendimento de conceitos avançados em Python, o que contribuirá para meu desenvolvimento profissional e para a criação de soluções mais eficientes e robustas no meu trabalho.
+Iniciado em 20-06-2024, este foi repositório criado para leitura e prática do livro "Pense em Python" para aprimorar habilidades de programação e impulsionar minha carreira na área de engenharia de dados. Este estudo tem sido fundamental para aprofundar meu entendimento de conceitos avançados em Python, o que contribuirá para meu desenvolvimento profissional e para a criação de soluções mais eficientes e robustas no meu trabalho.
 
 # LIVRO
 [Caso tenha interesse em obter o livro](https://a.co/d/hYDbke6)
