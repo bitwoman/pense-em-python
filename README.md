@@ -18,7 +18,7 @@ Iniciado em 20-06-2024, este foi repositório criado para leitura e prática do 
 | [Capítulo 6: Funções com resultado](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_6)                | Finalizado   |        07/2024      |
 | [Capítulo 7: Iteração](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_7)                             | Finalizado   |        08/2024      |
 | [Capítulo 8: Strings](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_8)                              | Finalizado   |        08/2024      |
-| [Capítulo 9: Estudo de caso: jogos de palavras](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_9)    | Andamento    |          -          |
+| [Capítulo 9: Estudo de caso: jogos de palavras](https://github.com/bitwoman/pense-em-python/tree/main/capitulo_9)    | Finalizado   |      30/08/2024     |
 | Capítulo 10: Listas                                        | Não iniciado |          -          |
 | Capítulo 11: Dicionários                                   | Não iniciado |          -          |
 | Capítulo 12: Tuplas                                        | Não iniciado |          -          |
