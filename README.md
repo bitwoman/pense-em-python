@@ -34,14 +34,14 @@ Iniciado em 20-06-2024, este foi repositório criado para leitura e prática do 
 
 
 # GLOSSÁRIO
-|        TERMO        |                                  DESCRIÇÃO                                                                           |    CAPÍTULO                                                |
-|---------------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-|                     |                                                                                                                      |                                                            |
-|                     |                                                                                                                      |                                                            |
-|                     |                                                                                                                      |                                                            |
-|                     |                                                                                                                      |                                                            |
-|                     |                                                                                                                      |                                                            |
-|                     |                                                                                                                      |                                                            |
+|        TERMO        |                                  DESCRIÇÃO                                                                                                                 |    CAPÍTULO                                                |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+|      função         | Uma sequência nomeada de declarações que executa alguma operação útil. As funções podem receber argumentos ou não e podem ou não produzir algum resultado. |     Capítulo 3                                             |
+| definição de função | Uma instrução que cria uma função nova, especificando seu nome, parâmetros e as instruções que contém.                                                     |     Capítulo 3                                             |
+| objeto da função    | Um valor é criado por uma definição de função. O nome da função é uma variável que se refere a um objeto de função.                                        |     Capítulo 3                                             |
+| cabeçalho           | A primeira linha de uma definição de função.                                                                                                               |     Capítulo 3                                             |
+| corpo               | A sequência de instruções dentro de uma definição de função.                                                                                               |     Capítulo 3                                             |
+| parâmetro           | Um nome usado dentro de uma função para se referir ao valor passado como argumento.                                                                        |     Capítulo 3                                             |
 |                     |                                                                                                                      |                                                            |
 |                     |                                                                                                                      |                                                            |
 |                     |                                                                                                                      |                                                            |
